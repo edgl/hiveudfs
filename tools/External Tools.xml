@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="ng" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="ng" />
+      <option name="PARAMETERS" value="build" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/workspace/census/cdldemo_ui" />
+    </exec>
+  </tool>
+</toolSet>
